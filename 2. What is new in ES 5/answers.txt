@@ -1,0 +1,43 @@
+правильные ответы
+
+Es5 strict vs Es5 default
+1.a
+2.c
+3.b
+4.c
+
+Trailling commas
+1.b
+2.c
+
+Reserved words relaxation
+1.b
+2.a
+
+Getters/setters
+1.c
+2.a
+
+Multiline string literals
+1.b
+2.c
+3.e
+
+Constants
+1.c
+2.b
+3.b
+
+parseInt optional radix
+1.c
+2.c
+
+JSON.parse and JSON.stringify
+1.c
+2.a
+
+Function: bind
+1.c
+2.b
+3.a
+4.c
