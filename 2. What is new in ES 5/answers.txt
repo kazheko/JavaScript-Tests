@@ -17,6 +17,9 @@ Reserved words relaxation
 Getters/setters
 1.c
 2.a
+3.a
+4.a
+5.c
 
 Multiline string literals
 1.b
@@ -31,13 +34,14 @@ Constants
 parseInt optional radix
 1.c
 2.c
+3.b
 
 JSON.parse and JSON.stringify
 1.c
 2.a
 
 Function: bind
-1.c
-2.b
-3.a
+1.b
+2.a
+3.c
 4.c
