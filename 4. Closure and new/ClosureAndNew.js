@@ -142,3 +142,39 @@ console.log(counter2());
 //b. 1
 //c. 2
 //d. 3
+
+
+
+
+//8. What is the code execution result
+function counter() {
+  for (var i = 1; i <= 3; i++) {
+      setTimeout(() => {
+          console.log(i);
+      });
+  }
+}
+counter();
+
+//a. 1 2 3
+//b. 1 1 1
+//c. 3 3 3
+//d. 4 4 4
+
+
+
+
+//9. What is the code execution result
+function counter() {
+  for (let i = 1; i <= 3; i++) {
+      setTimeout(() => {
+          console.log(i);
+      });
+  }
+}
+counter();
+
+//a. 1 2 3
+//b. 1 1 1
+//c. 3 3 3
+//d. 4 4 4
